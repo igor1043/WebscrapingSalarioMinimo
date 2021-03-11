@@ -1,3 +1,9 @@
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
+
 import scrape from 'scrape-it'
 import Format from './format.js'
 

@@ -1,3 +1,18 @@
+
+# JogoDaVelha
+Jogo da velha em Javascript trabalhando algoritimos de Inteligencia Artificial. Página Desenvolvida para testes.
+
+
+JavaScript
+## Sobre este repositório
+
+Jogo da velha utilizando HTML, CSS e JS. Utilizando Algortimos de inteligencia artificial (MINIMAX) para determinar as escolhas do adversario.
+
+## Autor
+
+* Igor Vincius Freitas de Souza
+
+
 # Sobre
 <p>Esta api realiza um webscraping neste <a href="http://www.ipeadata.gov.br/exibeserie.aspx?stub=1&serid1739471028=1739471028">endereço</a>, buscando os valores do salário mínimo vigente em cada periodo. </p>
 <p>Os dados foram extraídos de uma tabela contida na página e a formatação foi feita através de uma expressão regular.</p>
@@ -9,7 +24,7 @@
 * **/2020-05**: retorna somente o salário vigente neste periodo.
 
 ## Tecnologias 
-* [Scrape-it](https://github.com/IonicaBizau/scrape-it#readme)
+
 * [Express](http://expressjs.com/pt-br/)
 * [Node.js](https://nodejs.org/en/)
 

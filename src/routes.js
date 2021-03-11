@@ -1,3 +1,9 @@
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
+
 import express from 'express'
 import Controller from './controllers.js'
 
